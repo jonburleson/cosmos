@@ -3,7 +3,7 @@
 
 ## C Code style
 
-C is a general-purpose, procedural computer programming language originally developed between 1969 and 1973.
+C is a general-purpose, procedural computer programming language originally developed by Dennis Ritchie at Bell Labs between 1969 and 1973.
 
 ---
 
